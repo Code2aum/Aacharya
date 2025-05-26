@@ -1,2 +1,2 @@
 # Aacharya
-#### It is an end-to-end pipeline for student performance prediction.
+#### It is an end-to-end ML pipeline for student performance prediction.
